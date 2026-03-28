@@ -3,7 +3,7 @@ Built analytical storage using ClickHouse with MergeTree and Replicated engines.
 Implemented materialized views, aggregation tables and optimized storage for analytical workloads.
 
 ## 🗂 Repository Structure
-
+```text
 clickhouse-analytics/
 ├── tables/
 │   ├── raw_tables.sql
@@ -20,3 +20,4 @@ clickhouse-analytics/
 │   └── performance_tuning.sql
 │
 └── README.md
+```
